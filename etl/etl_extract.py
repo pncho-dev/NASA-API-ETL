@@ -9,7 +9,7 @@ def extract_projects_investigators_data(URL: str, initial_date: str):
         
         projects = response.json().get('projects', [])
         number_of_projects = response.json().get('totalCount')
-        print(f"Extrayendo datos un total de {number_of_projects} proyectos...")
+        print(f"Extrayendo datos para un total de {number_of_projects} proyectos...")
         # Lista para almacenar los proyectos detallados
         detailed_projects = []
         
