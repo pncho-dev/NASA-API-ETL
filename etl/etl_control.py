@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 import json
 from etl_extract import extract_projects_investigators_data
 from etl_transform import transform_data 
+from etl_load import load_projects_and_contacts
 
 # Cargar variables de entorno desde .env
 load_dotenv()
@@ -28,6 +29,7 @@ def main():
     print(f"Datos guardados en {projects_raw_file_path}.")
     
     project_df, contact_df = transform_data(projects_raw_file_path)
+
 
 if __name__ == "__main__":
     main()
