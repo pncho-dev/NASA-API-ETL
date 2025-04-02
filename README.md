@@ -36,8 +36,8 @@ INTELIGENTHR
 
 ## Uso
 1. Instalar las dependencias presentes en el archivo requirements.
-2. Modificar el párametro initial_date(línea 12) par extraer la información desde esa fecha en el script **etl_control.py**
-3. Ejecutar el archivo **etl_control.py** y disfrutar
+2. Modificar el párametro initial_date(línea 12) par extraer la información desde esa fecha en el script **etl_control.py**.
+3. Ejecutar el archivo **etl_control.py** y disfrutar.
 
 ## Modelo de datos sugerido
 El diagrama entidad relación sugerido para implementar el esquema de datos es el siguiente:
