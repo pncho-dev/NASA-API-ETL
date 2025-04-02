@@ -3,5 +3,4 @@ dependencies:
   - python
   - requests
   - pandas
-  - sqlalchemy
   - dotenv
