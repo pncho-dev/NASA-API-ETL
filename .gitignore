@@ -1,0 +1,4 @@
+# Ignorar almacenamiento de datos
+data/
+# Ignorar cache
+__pycache__/

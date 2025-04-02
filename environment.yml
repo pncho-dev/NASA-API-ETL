@@ -1,0 +1,6 @@
+name: NASA-API-ETL_env
+dependencies:
+  - python
+  - requests
+  - pandas
+  - dotenv
