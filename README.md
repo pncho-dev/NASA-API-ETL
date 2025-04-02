@@ -22,8 +22,8 @@ INTELIGENTHR
 │   └── sugested_data_model.png # Modelo de datos sugerifo
 
 ├── data/                       # Carpeta principal de datos
-├── .gitignores                 # Archivo gitignore
-├──  environment.ym             # Archivo de dependencias para entorno virtual
+├── .gitignore                 # Archivo gitignore
+├──  environment.yml             # Archivo de dependencias para entorno virtual
 └── .env                        # Variables de entorno para la configuración de la solución
 
 ```
