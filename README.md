@@ -1,4 +1,4 @@
-# InteligentHR
+# NASA-API-ETL
 Este proyecto es una ETL desarrollada en  **Python** la cual realiza la extracción y transformación desde la [API de la NASA](https://techport.nasa.gov/help/api). Permite almacenar los datos extraídos Proyectos e Investigadores.
 
 ## Funcionalidades
